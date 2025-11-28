@@ -1,0 +1,343 @@
+{"level":"info","message":"MongoDB connected successfully","timestamp":"2025-11-27 07:25:17"}
+{"level":"info","message":"Scheduling upload job: 30 17 * * * (Asia/Kolkata)","timestamp":"2025-11-27 07:25:17"}
+{"level":"info","message":"✅ Upload job scheduled for 17:30 Asia/Kolkata","timestamp":"2025-11-27 07:25:17"}
+{"level":"info","message":"========================================","timestamp":"2025-11-27 07:25:17"}
+{"level":"info","message":"🚀 Server running on port 4000","timestamp":"2025-11-27 07:25:17"}
+{"level":"info","message":"📅 Environment: production","timestamp":"2025-11-27 07:25:17"}
+{"level":"info","message":"⏰ Upload scheduled at: 17:30 Asia/Kolkata","timestamp":"2025-11-27 07:25:17"}
+{"level":"info","message":"🔗 OAuth URL: http://localhost:4000/auth/login","timestamp":"2025-11-27 07:25:17"}
+{"level":"info","message":"========================================","timestamp":"2025-11-27 07:25:17"}
+{"level":"info","message":"Generated OAuth URL","timestamp":"2025-11-27 07:27:06"}
+{"level":"info","message":"::1 - - [27/Nov/2025:01:57:06 +0000] \"GET /auth/login HTTP/1.1\" 200 584 \"-\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36 Edg/142.0.0.0\"","timestamp":"2025-11-27 07:27:06"}
+{"level":"info","message":"::1 - - [27/Nov/2025:01:57:07 +0000] \"GET /favicon.ico HTTP/1.1\" 404 45 \"-\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36 Edg/142.0.0.0\"","timestamp":"2025-11-27 07:27:07"}
+{"level":"info","message":"SIGINT received, shutting down gracefully...","timestamp":"2025-11-27 07:29:52"}
+{"level":"info","message":"MongoDB connected successfully","timestamp":"2025-11-27 07:30:03"}
+{"level":"info","message":"Scheduling upload job: 30 17 * * * (Asia/Kolkata)","timestamp":"2025-11-27 07:30:03"}
+{"level":"info","message":"✅ Upload job scheduled for 17:30 Asia/Kolkata","timestamp":"2025-11-27 07:30:03"}
+{"level":"info","message":"========================================","timestamp":"2025-11-27 07:30:03"}
+{"level":"info","message":"🚀 Server running on port 4000","timestamp":"2025-11-27 07:30:03"}
+{"level":"info","message":"📅 Environment: production","timestamp":"2025-11-27 07:30:03"}
+{"level":"info","message":"⏰ Upload scheduled at: 17:30 Asia/Kolkata","timestamp":"2025-11-27 07:30:03"}
+{"level":"info","message":"🔗 OAuth URL: http://localhost:4000/auth/login","timestamp":"2025-11-27 07:30:03"}
+{"level":"info","message":"========================================","timestamp":"2025-11-27 07:30:03"}
+{"level":"info","message":"Generated OAuth URL","timestamp":"2025-11-27 07:30:09"}
+{"level":"info","message":"::1 - - [27/Nov/2025:02:00:09 +0000] \"GET /auth/login HTTP/1.1\" 304 - \"-\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36 Edg/142.0.0.0\"","timestamp":"2025-11-27 07:30:09"}
+{"level":"info","message":"SIGINT received, shutting down gracefully...","timestamp":"2025-11-27 07:31:08"}
+{"level":"info","message":"MongoDB connected successfully","timestamp":"2025-11-27 07:31:17"}
+{"level":"info","message":"Scheduling upload job: 30 17 * * * (Asia/Kolkata)","timestamp":"2025-11-27 07:31:17"}
+{"level":"info","message":"✅ Upload job scheduled for 17:30 Asia/Kolkata","timestamp":"2025-11-27 07:31:17"}
+{"level":"info","message":"========================================","timestamp":"2025-11-27 07:31:17"}
+{"level":"info","message":"🚀 Server running on port 4000","timestamp":"2025-11-27 07:31:17"}
+{"level":"info","message":"📅 Environment: production","timestamp":"2025-11-27 07:31:17"}
+{"level":"info","message":"⏰ Upload scheduled at: 17:30 Asia/Kolkata","timestamp":"2025-11-27 07:31:17"}
+{"level":"info","message":"🔗 OAuth URL: http://localhost:4000/auth/login","timestamp":"2025-11-27 07:31:17"}
+{"level":"info","message":"========================================","timestamp":"2025-11-27 07:31:17"}
+{"level":"info","message":"Generated OAuth URL","timestamp":"2025-11-27 07:31:23"}
+{"level":"info","message":"::1 - - [27/Nov/2025:02:01:23 +0000] \"GET /auth/login HTTP/1.1\" 304 - \"-\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36 Edg/142.0.0.0\"","timestamp":"2025-11-27 07:31:23"}
+{"level":"info","message":"Generated OAuth URL","timestamp":"2025-11-27 07:59:46"}
+{"level":"info","message":"::1 - - [27/Nov/2025:02:29:46 +0000] \"GET /auth/login HTTP/1.1\" 304 - \"-\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36 Edg/142.0.0.0\"","timestamp":"2025-11-27 07:59:46"}
+{"level":"info","message":"SIGINT received, shutting down gracefully...","timestamp":"2025-11-27 08:01:29"}
+{"level":"info","message":"MongoDB connected successfully","timestamp":"2025-11-27 08:01:38"}
+{"level":"info","message":"Scheduling upload job: 30 17 * * * (Asia/Kolkata)","timestamp":"2025-11-27 08:01:38"}
+{"level":"info","message":"✅ Upload job scheduled for 17:30 Asia/Kolkata","timestamp":"2025-11-27 08:01:38"}
+{"level":"info","message":"========================================","timestamp":"2025-11-27 08:01:38"}
+{"level":"info","message":"🚀 Server running on port 4000","timestamp":"2025-11-27 08:01:38"}
+{"level":"info","message":"📅 Environment: production","timestamp":"2025-11-27 08:01:38"}
+{"level":"info","message":"⏰ Upload scheduled at: 17:30 Asia/Kolkata","timestamp":"2025-11-27 08:01:38"}
+{"level":"info","message":"🔗 OAuth URL: http://localhost:4000/auth/login","timestamp":"2025-11-27 08:01:38"}
+{"level":"info","message":"========================================","timestamp":"2025-11-27 08:01:38"}
+{"level":"info","message":"Generated OAuth URL","timestamp":"2025-11-27 08:02:55"}
+{"level":"info","message":"::1 - - [27/Nov/2025:02:32:55 +0000] \"GET /auth/login HTTP/1.1\" 200 584 \"-\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36 Edg/142.0.0.0\"","timestamp":"2025-11-27 08:02:55"}
+{"level":"info","message":"SIGINT received, shutting down gracefully...","timestamp":"2025-11-27 08:05:04"}
+{"level":"info","message":"MongoDB connected successfully","timestamp":"2025-11-27 08:05:51"}
+{"level":"info","message":"Scheduling upload job: 30 17 * * * (Asia/Kolkata)","timestamp":"2025-11-27 08:05:51"}
+{"level":"info","message":"✅ Upload job scheduled for 17:30 Asia/Kolkata","timestamp":"2025-11-27 08:05:51"}
+{"level":"info","message":"========================================","timestamp":"2025-11-27 08:05:51"}
+{"level":"info","message":"🚀 Server running on port 4000","timestamp":"2025-11-27 08:05:51"}
+{"level":"info","message":"📅 Environment: production","timestamp":"2025-11-27 08:05:51"}
+{"level":"info","message":"⏰ Upload scheduled at: 17:30 Asia/Kolkata","timestamp":"2025-11-27 08:05:51"}
+{"level":"info","message":"🔗 OAuth URL: http://localhost:4000/auth/login","timestamp":"2025-11-27 08:05:51"}
+{"level":"info","message":"========================================","timestamp":"2025-11-27 08:05:51"}
+{"level":"info","message":"SIGINT received, shutting down gracefully...","timestamp":"2025-11-27 08:10:34"}
+{"level":"info","message":"MongoDB connected successfully","timestamp":"2025-11-27 08:10:44"}
+{"level":"info","message":"Scheduling upload job: 30 17 * * * (Asia/Kolkata)","timestamp":"2025-11-27 08:10:44"}
+{"level":"info","message":"✅ Upload job scheduled for 17:30 Asia/Kolkata","timestamp":"2025-11-27 08:10:44"}
+{"level":"info","message":"========================================","timestamp":"2025-11-27 08:10:44"}
+{"level":"info","message":"🚀 Server running on port 4000","timestamp":"2025-11-27 08:10:44"}
+{"level":"info","message":"📅 Environment: production","timestamp":"2025-11-27 08:10:44"}
+{"level":"info","message":"⏰ Upload scheduled at: 17:30 Asia/Kolkata","timestamp":"2025-11-27 08:10:44"}
+{"level":"info","message":"🔗 OAuth URL: http://localhost:4000/auth/login","timestamp":"2025-11-27 08:10:44"}
+{"level":"info","message":"========================================","timestamp":"2025-11-27 08:10:44"}
+{"level":"info","message":"Received OAuth callback with code","timestamp":"2025-11-27 08:11:21"}
+{"level":"info","message":"Tokens obtained successfully","timestamp":"2025-11-27 08:11:21"}
+{"level":"info","message":"Created new user: UC2XDLiMZ_jfT88OiVANTrdQ@youtube.user","timestamp":"2025-11-27 08:11:21"}
+{"level":"info","message":"::1 - - [27/Nov/2025:02:41:21 +0000] \"GET /auth/youtube/callback?code=4/0Ab32j90tp6bF8QAO8zkCL9TKCt4E_lnTmhNTHHK6yskXIZyDgfgz8vf0OJBx8q1QWVkxoQ&scope=email%20profile%20https://www.googleapis.com/auth/youtube.upload%20https://www.googleapis.com/auth/youtube%20https://www.googleapis.com/auth/userinfo.profile%20https://www.googleapis.com/auth/userinfo.email%20openid&authuser=0&prompt=consent HTTP/1.1\" 200 1647 \"-\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36 Edg/142.0.0.0\"","timestamp":"2025-11-27 08:11:21"}
+{"level":"info","message":"Generated OAuth URL","timestamp":"2025-11-27 08:11:55"}
+{"level":"info","message":"::1 - - [27/Nov/2025:02:41:55 +0000] \"GET /auth/login HTTP/1.1\" 200 584 \"-\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36 Edg/142.0.0.0\"","timestamp":"2025-11-27 08:11:55"}
+{"level":"info","message":"::1 - - [27/Nov/2025:02:41:55 +0000] \"GET /favicon.ico HTTP/1.1\" 404 45 \"-\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36 Edg/142.0.0.0\"","timestamp":"2025-11-27 08:11:55"}
+{"level":"info","message":"SIGINT received, shutting down gracefully...","timestamp":"2025-11-27 08:13:51"}
+{"level":"info","message":"MongoDB connected successfully","timestamp":"2025-11-27 08:13:58"}
+{"level":"info","message":"Scheduling upload job: 30 17 * * * (Asia/Kolkata)","timestamp":"2025-11-27 08:13:58"}
+{"level":"info","message":"✅ Upload job scheduled for 17:30 Asia/Kolkata","timestamp":"2025-11-27 08:13:58"}
+{"level":"info","message":"========================================","timestamp":"2025-11-27 08:13:58"}
+{"level":"info","message":"🚀 Server running on port 4000","timestamp":"2025-11-27 08:13:58"}
+{"level":"info","message":"📅 Environment: production","timestamp":"2025-11-27 08:13:58"}
+{"level":"info","message":"⏰ Upload scheduled at: 17:30 Asia/Kolkata","timestamp":"2025-11-27 08:13:58"}
+{"level":"info","message":"🔗 OAuth URL: http://localhost:4000/auth/login","timestamp":"2025-11-27 08:13:58"}
+{"level":"info","message":"========================================","timestamp":"2025-11-27 08:13:58"}
+{"level":"info","message":"Generated OAuth URL","timestamp":"2025-11-27 08:14:03"}
+{"level":"info","message":"::1 - - [27/Nov/2025:02:44:03 +0000] \"GET /auth/login HTTP/1.1\" 304 - \"-\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36 Edg/142.0.0.0\"","timestamp":"2025-11-27 08:14:03"}
+{"level":"info","message":"Received OAuth callback with code","timestamp":"2025-11-27 08:15:07"}
+{"level":"info","message":"Tokens obtained successfully","timestamp":"2025-11-27 08:15:08"}
+{"level":"info","message":"Updated existing user: UC2XDLiMZ_jfT88OiVANTrdQ@youtube.user","timestamp":"2025-11-27 08:15:08"}
+{"level":"info","message":"::1 - - [27/Nov/2025:02:45:08 +0000] \"GET /auth/youtube/callback?code=4/0Ab32j93Egm67REbtYueeTMQee2OlH1Fe6yRylf3XIo-cNDncWFWkFug7zjncnpGGRAFOeg&scope=email%20profile%20https://www.googleapis.com/auth/youtube.upload%20https://www.googleapis.com/auth/youtube%20https://www.googleapis.com/auth/userinfo.profile%20https://www.googleapis.com/auth/userinfo.email%20openid&authuser=0&prompt=consent HTTP/1.1\" 200 1647 \"-\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36 Edg/142.0.0.0\"","timestamp":"2025-11-27 08:15:08"}
+{"level":"error","message":"Could not connect to any servers in your MongoDB Atlas cluster. One common reason is that you're trying to access the database from an IP that isn't whitelisted. Make sure your current IP address is on your Atlas cluster's IP whitelist: https://www.mongodb.com/docs/atlas/security-whitelist/","reason":{"commonWireVersion":0,"compatible":true,"heartbeatFrequencyMS":10000,"localThresholdMS":15,"logicalSessionTimeoutMinutes":null,"maxElectionId":null,"maxSetVersion":null,"servers":{},"setName":"atlas-a1jz1f-shard-0","stale":false,"type":"ReplicaSetNoPrimary"},"stack":"MongooseServerSelectionError: Could not connect to any servers in your MongoDB Atlas cluster. One common reason is that you're trying to access the database from an IP that isn't whitelisted. Make sure your current IP address is on your Atlas cluster's IP whitelist: https://www.mongodb.com/docs/atlas/security-whitelist/\n    at _handleConnectionErrors (C:\\death9\\backend1\\youtube-auto-uploader\\node_modules\\mongoose\\lib\\connection.js:816:11)\n    at NativeConnection.openUri (C:\\death9\\backend1\\youtube-auto-uploader\\node_modules\\mongoose\\lib\\connection.js:791:11)\n    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)\n    at async connectDB (C:\\death9\\backend1\\youtube-auto-uploader\\src\\config\\database.js:6:5)\n    at async startServer (C:\\death9\\backend1\\youtube-auto-uploader\\server.js:38:5)","timestamp":"2025-11-27 13:03:46"}
+{"level":"info","message":"MongoDB connected successfully","timestamp":"2025-11-27 13:05:09"}
+{"level":"info","message":"Scheduling upload job: 30 17 * * * (Asia/Kolkata)","timestamp":"2025-11-27 13:05:09"}
+{"level":"info","message":"✅ Upload job scheduled for 17:30 Asia/Kolkata","timestamp":"2025-11-27 13:05:09"}
+{"level":"info","message":"========================================","timestamp":"2025-11-27 13:05:09"}
+{"level":"info","message":"🚀 Server running on port 4000","timestamp":"2025-11-27 13:05:09"}
+{"level":"info","message":"📅 Environment: production","timestamp":"2025-11-27 13:05:09"}
+{"level":"info","message":"⏰ Upload scheduled at: 17:30 Asia/Kolkata","timestamp":"2025-11-27 13:05:09"}
+{"level":"info","message":"🔗 OAuth URL: http://localhost:4000/auth/login","timestamp":"2025-11-27 13:05:09"}
+{"level":"info","message":"========================================","timestamp":"2025-11-27 13:05:09"}
+{"level":"info","message":"Generated OAuth URL","timestamp":"2025-11-27 13:06:09"}
+{"level":"info","message":"::1 - - [27/Nov/2025:07:36:09 +0000] \"GET /auth/login HTTP/1.1\" 304 - \"-\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36 Edg/142.0.0.0\"","timestamp":"2025-11-27 13:06:09"}
+{"level":"info","message":"::1 - - [27/Nov/2025:07:36:09 +0000] \"GET /favicon.ico HTTP/1.1\" 404 45 \"-\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36 Edg/142.0.0.0\"","timestamp":"2025-11-27 13:06:09"}
+{"level":"info","message":"Received OAuth callback with code","timestamp":"2025-11-27 13:06:41"}
+{"level":"info","message":"Tokens obtained successfully","timestamp":"2025-11-27 13:06:42"}
+{"level":"info","message":"Updated existing user: UC2XDLiMZ_jfT88OiVANTrdQ@youtube.user","timestamp":"2025-11-27 13:06:42"}
+{"level":"info","message":"::1 - - [27/Nov/2025:07:36:42 +0000] \"GET /auth/youtube/callback?code=4/0Ab32j9138y602yiILbwDHhmHoxfGTdZw41tvODd6xafl0epivOGfS59xrPHZ8s0_orG2zg&scope=email%20profile%20https://www.googleapis.com/auth/youtube.upload%20https://www.googleapis.com/auth/youtube%20https://www.googleapis.com/auth/userinfo.profile%20https://www.googleapis.com/auth/userinfo.email%20openid&authuser=0&prompt=consent HTTP/1.1\" 200 1647 \"-\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36 Edg/142.0.0.0\"","timestamp":"2025-11-27 13:06:42"}
+{"level":"info","message":"::1 - - [27/Nov/2025:07:37:03 +0000] \"GET /auth/users HTTP/1.1\" 200 4480 \"-\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36 Edg/142.0.0.0\"","timestamp":"2025-11-27 13:07:03"}
+{"level":"info","message":"SIGINT received, shutting down gracefully...","timestamp":"2025-11-27 13:09:10"}
+{"level":"info","message":"MongoDB connected successfully","timestamp":"2025-11-27 13:09:26"}
+{"level":"info","message":"Scheduling upload job: 30 17 * * * (Asia/Kolkata)","timestamp":"2025-11-27 13:09:26"}
+{"level":"info","message":"✅ Upload job scheduled for 17:30 Asia/Kolkata","timestamp":"2025-11-27 13:09:26"}
+{"level":"info","message":"========================================","timestamp":"2025-11-27 13:09:26"}
+{"level":"info","message":"🚀 Server running on port 4000","timestamp":"2025-11-27 13:09:26"}
+{"level":"info","message":"📅 Environment: production","timestamp":"2025-11-27 13:09:26"}
+{"level":"info","message":"⏰ Upload scheduled at: 17:30 Asia/Kolkata","timestamp":"2025-11-27 13:09:26"}
+{"level":"info","message":"🔗 OAuth URL: http://localhost:4000/auth/login","timestamp":"2025-11-27 13:09:26"}
+{"level":"info","message":"========================================","timestamp":"2025-11-27 13:09:26"}
+{"level":"info","message":"========================================","timestamp":"2025-11-27 13:10:27"}
+{"level":"info","message":"MANUAL TEST - YouTube Auto-Uploader","timestamp":"2025-11-27 13:10:28"}
+{"level":"info","message":"========================================","timestamp":"2025-11-27 13:10:28"}
+{"level":"info","message":"MongoDB connected successfully","timestamp":"2025-11-27 13:10:42"}
+{"level":"info","message":"✅ Database connected","timestamp":"2025-11-27 13:10:42"}
+{"level":"info","message":"🚀 Starting upload job...","timestamp":"2025-11-27 13:10:44"}
+{"level":"info","message":"Manual trigger: Running upload job now...","timestamp":"2025-11-27 13:10:44"}
+{"level":"info","message":"========================================","timestamp":"2025-11-27 13:10:44"}
+{"level":"info","message":"Starting daily upload job","timestamp":"2025-11-27 13:10:44"}
+{"level":"info","message":"Time: 2025-11-27 13:10:44","timestamp":"2025-11-27 13:10:44"}
+{"level":"info","message":"========================================","timestamp":"2025-11-27 13:10:44"}
+{"level":"info","message":"Found 1 active users","timestamp":"2025-11-27 13:10:44"}
+{"level":"info","message":"Processing upload for: UC2XDLiMZ_jfT88OiVANTrdQ@youtube.user (Arjun)","timestamp":"2025-11-27 13:10:44"}
+{"level":"info","message":"Fetching next video from: http://localhost:3000/api/videos/next","timestamp":"2025-11-27 13:10:44"}
+{"level":"info","message":"No pending videos available","timestamp":"2025-11-27 13:10:44"}
+{"level":"info","message":"No videos available for UC2XDLiMZ_jfT88OiVANTrdQ@youtube.user","timestamp":"2025-11-27 13:10:44"}
+{"level":"info","message":"Sending upload report...","timestamp":"2025-11-27 13:10:44"}
+{"level":"info","message":"Upload report sent successfully","timestamp":"2025-11-27 13:10:57"}
+{"level":"info","message":"MongoDB connected successfully","timestamp":"2025-11-27 13:53:59"}
+{"level":"info","message":"Scheduling upload job: 30 17 * * * (Asia/Kolkata)","timestamp":"2025-11-27 13:53:59"}
+{"level":"info","message":"✅ Upload job scheduled for 17:30 Asia/Kolkata","timestamp":"2025-11-27 13:53:59"}
+{"level":"info","message":"========================================","timestamp":"2025-11-27 13:53:59"}
+{"level":"info","message":"🚀 Server running on port 4000","timestamp":"2025-11-27 13:53:59"}
+{"level":"info","message":"📅 Environment: production","timestamp":"2025-11-27 13:53:59"}
+{"level":"info","message":"⏰ Upload scheduled at: 17:30 Asia/Kolkata","timestamp":"2025-11-27 13:53:59"}
+{"level":"info","message":"🔗 OAuth URL: http://localhost:4000/auth/login","timestamp":"2025-11-27 13:53:59"}
+{"level":"info","message":"========================================","timestamp":"2025-11-27 13:53:59"}
+{"level":"info","message":"Generated OAuth URL","timestamp":"2025-11-27 13:54:10"}
+{"level":"info","message":"::1 - - [27/Nov/2025:08:24:10 +0000] \"GET /auth/login HTTP/1.1\" 304 - \"-\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36 Edg/142.0.0.0\"","timestamp":"2025-11-27 13:54:10"}
+{"level":"info","message":"::1 - - [27/Nov/2025:08:24:10 +0000] \"GET /favicon.ico HTTP/1.1\" 404 45 \"-\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36 Edg/142.0.0.0\"","timestamp":"2025-11-27 13:54:10"}
+{"level":"info","message":"Generated OAuth URL","timestamp":"2025-11-27 13:59:41"}
+{"level":"info","message":"::1 - - [27/Nov/2025:08:29:41 +0000] \"GET /auth/login HTTP/1.1\" 304 - \"-\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36 Edg/142.0.0.0\"","timestamp":"2025-11-27 13:59:41"}
+{"level":"info","message":"Received OAuth callback with code","timestamp":"2025-11-27 14:00:03"}
+{"level":"info","message":"Tokens obtained successfully","timestamp":"2025-11-27 14:00:04"}
+{"level":"info","message":"Created new user: UCpW3zqUbQlbQRYwEEXLs1nQ@youtube.user","timestamp":"2025-11-27 14:00:05"}
+{"level":"info","message":"::1 - - [27/Nov/2025:08:30:05 +0000] \"GET /auth/youtube/callback?code=4/0Ab32j92T8RAWqhaIqHgQFeys6lnu_tt3mCu9QH1Lq4h8pRNzXXafn-bIVAEntRiLGAqT2A&scope=email%20profile%20https://www.googleapis.com/auth/youtube.upload%20https://www.googleapis.com/auth/youtube%20https://www.googleapis.com/auth/userinfo.profile%20https://www.googleapis.com/auth/userinfo.email%20openid&authuser=1&prompt=consent HTTP/1.1\" 200 1654 \"-\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36 Edg/142.0.0.0\"","timestamp":"2025-11-27 14:00:05"}
+{"level":"info","message":"========================================","timestamp":"2025-11-27 14:03:45"}
+{"level":"info","message":"MANUAL TEST - YouTube Auto-Uploader","timestamp":"2025-11-27 14:03:45"}
+{"level":"info","message":"========================================","timestamp":"2025-11-27 14:03:45"}
+{"level":"info","message":"MongoDB connected successfully","timestamp":"2025-11-27 14:03:46"}
+{"level":"info","message":"✅ Database connected","timestamp":"2025-11-27 14:03:46"}
+{"level":"info","message":"🚀 Starting upload job...","timestamp":"2025-11-27 14:03:48"}
+{"level":"info","message":"Manual trigger: Running upload job now...","timestamp":"2025-11-27 14:03:48"}
+{"level":"info","message":"========================================","timestamp":"2025-11-27 14:03:48"}
+{"level":"info","message":"Starting daily upload job","timestamp":"2025-11-27 14:03:48"}
+{"level":"info","message":"Time: 2025-11-27 14:03:48","timestamp":"2025-11-27 14:03:48"}
+{"level":"info","message":"========================================","timestamp":"2025-11-27 14:03:48"}
+{"level":"info","message":"Found 1 active users","timestamp":"2025-11-27 14:03:48"}
+{"level":"info","message":"Processing upload for: UCpW3zqUbQlbQRYwEEXLs1nQ@youtube.user (Arjun Pratap)","timestamp":"2025-11-27 14:03:48"}
+{"level":"info","message":"Fetching next video from: http://localhost:3000/api/videos/next","timestamp":"2025-11-27 14:03:48"}
+{"level":"info","message":"Found video: 子轩影视_7569257464273754489__影视解说_我的观影报告_好剧推荐_1440x1080_0.mp4","timestamp":"2025-11-27 14:03:49"}
+{"level":"info","message":"Downloading: 子轩影视_7569257464273754489__影视解说_我的观影报告_好剧推荐_1440x1080_0.mp4","timestamp":"2025-11-27 14:03:49"}
+{"0":"e","1":"n","10":"l","11":"o","12":"a","13":"d","14":"s","15":"D","16":"i","17":"r","18":" ","19":"i","2":"s","20":"s","21":" ","22":"n","23":"o","24":"t","25":" ","26":"a","27":" ","28":"f","29":"u","3":"u","30":"n","31":"c","32":"t","33":"i","34":"o","35":"n","4":"r","5":"e","6":"D","7":"o","8":"w","9":"n","level":"error","message":"❌ Upload failed for UCpW3zqUbQlbQRYwEEXLs1nQ@youtube.user:","timestamp":"2025-11-27 14:03:49"}
+{"level":"info","message":"Error notification sent for UCpW3zqUbQlbQRYwEEXLs1nQ@youtube.user","timestamp":"2025-11-27 14:03:54"}
+{"level":"info","message":"Sending upload report...","timestamp":"2025-11-27 14:03:54"}
+{"level":"info","message":"Upload report sent successfully","timestamp":"2025-11-27 14:03:57"}
+{"level":"info","message":"========================================","timestamp":"2025-11-27 14:19:46"}
+{"level":"info","message":"MANUAL TEST - YouTube Auto-Uploader","timestamp":"2025-11-27 14:19:46"}
+{"level":"info","message":"========================================","timestamp":"2025-11-27 14:19:46"}
+{"level":"info","message":"MongoDB connected successfully","timestamp":"2025-11-27 14:19:47"}
+{"level":"info","message":"✅ Database connected","timestamp":"2025-11-27 14:19:47"}
+{"level":"info","message":"🚀 Starting upload job...","timestamp":"2025-11-27 14:19:49"}
+{"level":"info","message":"Manual trigger: Running upload job now...","timestamp":"2025-11-27 14:19:49"}
+{"level":"info","message":"========================================","timestamp":"2025-11-27 14:19:49"}
+{"level":"info","message":"Starting daily upload job","timestamp":"2025-11-27 14:19:49"}
+{"level":"info","message":"Time: 2025-11-27 14:19:49","timestamp":"2025-11-27 14:19:49"}
+{"level":"info","message":"========================================","timestamp":"2025-11-27 14:19:49"}
+{"level":"info","message":"Found 1 active users","timestamp":"2025-11-27 14:19:49"}
+{"level":"info","message":"Processing upload for: UCpW3zqUbQlbQRYwEEXLs1nQ@youtube.user (Arjun Pratap)","timestamp":"2025-11-27 14:19:49"}
+{"level":"info","message":"Fetching next video from: http://localhost:3000/api/videos/next","timestamp":"2025-11-27 14:19:49"}
+{"level":"info","message":"Found video: 子轩影视_7569257464273754489__影视解说_我的观影报告_好剧推荐_1440x1080_0.mp4","timestamp":"2025-11-27 14:19:49"}
+{"level":"info","message":"Downloading: 子轩影视_7569257464273754489__影视解说_我的观影报告_好剧推荐_1440x1080_0.mp4","timestamp":"2025-11-27 14:19:49"}
+{"level":"info","message":"Created downloads directory: C:\\death9\\backend1\\youtube-auto-uploader\\downloads","timestamp":"2025-11-27 14:19:49"}
+{"level":"info","message":"Downloading video: 子轩影视_7569257464273754489__影视解说_我的观影报告_好剧推荐_1440x1080_0.mp4","timestamp":"2025-11-27 14:19:49"}
+{"level":"info","message":"Video downloaded: C:\\death9\\backend1\\youtube-auto-uploader\\downloads\\69280c849048ca12c1202960_子轩影视_7569257464273754489__影视解说_我的观影报告_好剧推荐_1440x1080_0.mp4","timestamp":"2025-11-27 14:20:03"}
+{"level":"info","message":"Starting YouTube upload for user: UCpW3zqUbQlbQRYwEEXLs1nQ@youtube.user","timestamp":"2025-11-27 14:20:04"}
+{"level":"info","message":"Uploading video: 子轩影视_7569257464273754489__影视解说_我的观影报告_好剧推荐_1440x1080_0.mp4","timestamp":"2025-11-27 14:20:04"}
+{"level":"info","message":"Video uploaded successfully: https://www.youtube.com/watch?v=CLCqMPE5F7A","timestamp":"2025-11-27 14:20:17"}
+{"level":"info","message":"Marking video as downloaded: 69280c849048ca12c1202960","timestamp":"2025-11-27 14:20:17"}
+{"level":"info","message":"Video marked as downloaded: 69280c849048ca12c1202960","timestamp":"2025-11-27 14:20:17"}
+{"level":"info","message":"Cleaned up file: C:\\death9\\backend1\\youtube-auto-uploader\\downloads\\69280c849048ca12c1202960_子轩影视_7569257464273754489__影视解说_我的观影报告_好剧推荐_1440x1080_0.mp4","timestamp":"2025-11-27 14:20:17"}
+{"level":"info","message":"✅ Successfully uploaded for UCpW3zqUbQlbQRYwEEXLs1nQ@youtube.user: https://www.youtube.com/watch?v=CLCqMPE5F7A","timestamp":"2025-11-27 14:20:17"}
+{"level":"info","message":"Sending upload report...","timestamp":"2025-11-27 14:20:17"}
+{"level":"info","message":"Upload report sent successfully","timestamp":"2025-11-27 14:20:21"}
+{"level":"info","message":"========================================","timestamp":"2025-11-27 14:29:21"}
+{"level":"info","message":"MANUAL TEST - YouTube Auto-Uploader","timestamp":"2025-11-27 14:29:21"}
+{"level":"info","message":"========================================","timestamp":"2025-11-27 14:29:21"}
+{"level":"info","message":"MongoDB connected successfully","timestamp":"2025-11-27 14:29:24"}
+{"level":"info","message":"✅ Database connected","timestamp":"2025-11-27 14:29:24"}
+{"level":"info","message":"🚀 Starting upload job...","timestamp":"2025-11-27 14:29:26"}
+{"level":"info","message":"Manual trigger: Running upload job now...","timestamp":"2025-11-27 14:29:26"}
+{"level":"info","message":"========================================","timestamp":"2025-11-27 14:29:26"}
+{"level":"info","message":"Starting daily upload job","timestamp":"2025-11-27 14:29:26"}
+{"level":"info","message":"Time: 2025-11-27 14:29:26","timestamp":"2025-11-27 14:29:26"}
+{"level":"info","message":"========================================","timestamp":"2025-11-27 14:29:26"}
+{"level":"info","message":"Found 1 active users","timestamp":"2025-11-27 14:29:26"}
+{"level":"info","message":"Processing upload for: UCpW3zqUbQlbQRYwEEXLs1nQ@youtube.user (Arjun Pratap)","timestamp":"2025-11-27 14:29:26"}
+{"level":"info","message":"Fetching next video from: http://localhost:3000/api/videos/next","timestamp":"2025-11-27 14:29:26"}
+{"level":"info","message":"Found video: 子轩影视_7569605373380880293__影视解说_我的观影报告_好剧推荐_1440x1080_0_final.mp4","timestamp":"2025-11-27 14:29:26"}
+{"level":"info","message":"Downloading: 子轩影视_7569605373380880293__影视解说_我的观影报告_好剧推荐_1440x1080_0_final.mp4","timestamp":"2025-11-27 14:29:26"}
+{"level":"info","message":"Downloading video: 子轩影视_7569605373380880293__影视解说_我的观影报告_好剧推荐_1440x1080_0_final.mp4","timestamp":"2025-11-27 14:29:26"}
+{"level":"info","message":"Video downloaded: C:\\death9\\backend1\\youtube-auto-uploader\\downloads\\692812d69048ca12c1202969_子轩影视_7569605373380880293__影视解说_我的观影报告_好剧推荐_1440x1080_0_final.mp4","timestamp":"2025-11-27 14:29:38"}
+{"level":"info","message":"Starting YouTube upload for user: UCpW3zqUbQlbQRYwEEXLs1nQ@youtube.user","timestamp":"2025-11-27 14:29:38"}
+{"level":"info","message":"Uploading video: 子轩影视_7569605373380880293__影视解说_我的观影报告_好剧推荐_1440x1080_0_final.mp4","timestamp":"2025-11-27 14:29:38"}
+{"level":"info","message":"Video uploaded successfully: https://www.youtube.com/watch?v=03oV678Gf3I","timestamp":"2025-11-27 14:29:45"}
+{"level":"info","message":"Marking video as downloaded: 692812d69048ca12c1202969","timestamp":"2025-11-27 14:29:45"}
+{"level":"info","message":"Video marked as downloaded: 692812d69048ca12c1202969","timestamp":"2025-11-27 14:29:45"}
+{"level":"info","message":"Cleaned up file: C:\\death9\\backend1\\youtube-auto-uploader\\downloads\\692812d69048ca12c1202969_子轩影视_7569605373380880293__影视解说_我的观影报告_好剧推荐_1440x1080_0_final.mp4","timestamp":"2025-11-27 14:29:45"}
+{"level":"info","message":"✅ Successfully uploaded for UCpW3zqUbQlbQRYwEEXLs1nQ@youtube.user: https://www.youtube.com/watch?v=03oV678Gf3I","timestamp":"2025-11-27 14:29:45"}
+{"level":"info","message":"Sending upload report...","timestamp":"2025-11-27 14:29:45"}
+{"level":"info","message":"Upload report sent successfully","timestamp":"2025-11-27 14:29:49"}
+{"level":"info","message":"MongoDB connected successfully","timestamp":"2025-11-27 15:43:32"}
+{"level":"info","message":"Scheduling upload job: 30 17 * * * (Asia/Kolkata)","timestamp":"2025-11-27 15:43:32"}
+{"level":"info","message":"✅ Upload job scheduled for 17:30 Asia/Kolkata","timestamp":"2025-11-27 15:43:32"}
+{"level":"info","message":"========================================","timestamp":"2025-11-27 15:43:32"}
+{"level":"info","message":"🚀 Server running on port 4000","timestamp":"2025-11-27 15:43:32"}
+{"level":"info","message":"📅 Environment: production","timestamp":"2025-11-27 15:43:32"}
+{"level":"info","message":"⏰ Upload scheduled at: 17:30 Asia/Kolkata","timestamp":"2025-11-27 15:43:32"}
+{"level":"info","message":"🔗 OAuth URL: http://localhost:4000/auth/login","timestamp":"2025-11-27 15:43:32"}
+{"level":"info","message":"========================================","timestamp":"2025-11-27 15:43:32"}
+{"level":"info","message":"Generated OAuth URL","timestamp":"2025-11-27 15:44:12"}
+{"level":"info","message":"::1 - - [27/Nov/2025:10:14:12 +0000] \"GET /auth/login HTTP/1.1\" 304 - \"-\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36 Edg/142.0.0.0\"","timestamp":"2025-11-27 15:44:12"}
+{"level":"info","message":"::1 - - [27/Nov/2025:10:14:12 +0000] \"GET /favicon.ico HTTP/1.1\" 404 45 \"-\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36 Edg/142.0.0.0\"","timestamp":"2025-11-27 15:44:12"}
+{"level":"info","message":"MongoDB connected successfully","timestamp":"2025-11-27 16:14:41"}
+{"level":"info","message":"Scheduling upload job: 30 17 * * * (Asia/Kolkata)","timestamp":"2025-11-27 16:14:41"}
+{"level":"info","message":"✅ Upload job scheduled for 17:30 Asia/Kolkata","timestamp":"2025-11-27 16:14:41"}
+{"level":"info","message":"========================================","timestamp":"2025-11-27 16:14:41"}
+{"level":"info","message":"🚀 Server running on port 4000","timestamp":"2025-11-27 16:14:41"}
+{"level":"info","message":"📅 Environment: production","timestamp":"2025-11-27 16:14:41"}
+{"level":"info","message":"⏰ Upload scheduled at: 17:30 Asia/Kolkata","timestamp":"2025-11-27 16:14:41"}
+{"level":"info","message":"🔗 OAuth URL: http://localhost:4000/auth/login","timestamp":"2025-11-27 16:14:41"}
+{"level":"info","message":"========================================","timestamp":"2025-11-27 16:14:41"}
+{"level":"info","message":"SIGINT received, shutting down gracefully...","timestamp":"2025-11-27 16:14:49"}
+{"level":"info","message":"Connecting to MongoDB...","timestamp":"2025-11-28 10:00:27"}
+{"level":"info","message":"MongoDB connected successfully","timestamp":"2025-11-28 10:00:30"}
+{"level":"info","message":"✅ MongoDB connected","timestamp":"2025-11-28 10:00:30"}
+{"level":"info","message":"Scheduling upload job: 30 17 * * * (Asia/Kolkata)","timestamp":"2025-11-28 10:00:30"}
+{"level":"info","message":"✅ Upload job scheduled for 17:30 Asia/Kolkata","timestamp":"2025-11-28 10:00:30"}
+{"level":"info","message":"✅ Upload job scheduled","timestamp":"2025-11-28 10:00:30"}
+{"level":"info","message":"========================================","timestamp":"2025-11-28 10:00:30"}
+{"level":"info","message":"🚀 Server running on port 4000","timestamp":"2025-11-28 10:00:30"}
+{"level":"info","message":"📅 Environment: production","timestamp":"2025-11-28 10:00:30"}
+{"level":"info","message":"⏰ Upload scheduled at: 17:30 Asia/Kolkata","timestamp":"2025-11-28 10:00:30"}
+{"level":"info","message":"🔗 OAuth URL: http://localhost:4000/auth/login","timestamp":"2025-11-28 10:00:30"}
+{"isRunning":false,"isScheduled":true,"level":"info","message":"📊 Upload Job Status:","skippedCycles":0,"timestamp":"2025-11-28 10:00:30"}
+{"level":"info","message":"========================================","timestamp":"2025-11-28 10:00:30"}
+{"level":"info","message":"Generated OAuth URL","timestamp":"2025-11-28 10:00:40"}
+{"level":"info","message":"127.0.0.1 - - [28/Nov/2025:04:30:40 +0000] \"GET /auth/login HTTP/1.1\" 304 - \"-\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36 Edg/142.0.0.0\"","timestamp":"2025-11-28 10:00:40"}
+{"level":"info","message":"127.0.0.1 - - [28/Nov/2025:04:30:40 +0000] \"GET /favicon.ico HTTP/1.1\" 404 45 \"-\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36 Edg/142.0.0.0\"","timestamp":"2025-11-28 10:00:40"}
+{"level":"info","message":"Shutting down gracefully...","timestamp":"2025-11-28 10:05:05"}
+{"level":"info","message":"Connecting to MongoDB...","timestamp":"2025-11-28 10:05:15"}
+{"level":"info","message":"MongoDB connected successfully","timestamp":"2025-11-28 10:05:17"}
+{"level":"info","message":"✅ MongoDB connected","timestamp":"2025-11-28 10:05:17"}
+{"level":"info","message":"Scheduling upload job: 30 17 * * * (Asia/Kolkata)","timestamp":"2025-11-28 10:05:17"}
+{"level":"info","message":"✅ Upload job scheduled for 17:30 Asia/Kolkata","timestamp":"2025-11-28 10:05:17"}
+{"level":"info","message":"✅ Upload job scheduled","timestamp":"2025-11-28 10:05:17"}
+{"level":"info","message":"========================================","timestamp":"2025-11-28 10:05:17"}
+{"level":"info","message":"🚀 Server running on port 4000","timestamp":"2025-11-28 10:05:17"}
+{"level":"info","message":"📅 Environment: production","timestamp":"2025-11-28 10:05:17"}
+{"level":"info","message":"⏰ Upload scheduled at: 17:30 Asia/Kolkata","timestamp":"2025-11-28 10:05:17"}
+{"level":"info","message":"🔗 OAuth URL: http://localhost:4000/auth/login","timestamp":"2025-11-28 10:05:17"}
+{"isRunning":false,"isScheduled":true,"level":"info","message":"📊 Upload Job Status:","skippedCycles":0,"timestamp":"2025-11-28 10:05:17"}
+{"level":"info","message":"========================================","timestamp":"2025-11-28 10:05:17"}
+{"level":"info","message":"Shutting down gracefully...","timestamp":"2025-11-28 10:05:34"}
+{"level":"info","message":"Connecting to MongoDB...","timestamp":"2025-11-28 10:05:43"}
+{"level":"info","message":"MongoDB connected successfully","timestamp":"2025-11-28 10:05:46"}
+{"level":"info","message":"✅ MongoDB connected","timestamp":"2025-11-28 10:05:46"}
+{"level":"info","message":"Scheduling upload job: 30 17 * * * (Asia/Kolkata)","timestamp":"2025-11-28 10:05:46"}
+{"level":"info","message":"✅ Upload job scheduled for 17:30 Asia/Kolkata","timestamp":"2025-11-28 10:05:46"}
+{"level":"info","message":"✅ Upload job scheduled","timestamp":"2025-11-28 10:05:46"}
+{"level":"info","message":"========================================","timestamp":"2025-11-28 10:05:46"}
+{"level":"info","message":"🚀 Server running on port 4000","timestamp":"2025-11-28 10:05:46"}
+{"level":"info","message":"📅 Environment: production","timestamp":"2025-11-28 10:05:47"}
+{"level":"info","message":"⏰ Upload scheduled at: 17:30 Asia/Kolkata","timestamp":"2025-11-28 10:05:47"}
+{"level":"info","message":"🔗 OAuth URL: http://localhost:4000/auth/login","timestamp":"2025-11-28 10:05:47"}
+{"isRunning":false,"isScheduled":true,"level":"info","message":"📊 Upload Job Status:","skippedCycles":0,"timestamp":"2025-11-28 10:05:47"}
+{"level":"info","message":"========================================","timestamp":"2025-11-28 10:05:47"}
+{"level":"info","message":"Generated OAuth URL","timestamp":"2025-11-28 10:05:50"}
+{"level":"info","message":"127.0.0.1 - - [28/Nov/2025:04:35:51 +0000] \"GET /auth/login HTTP/1.1\" 200 584 \"-\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36 Edg/142.0.0.0\"","timestamp":"2025-11-28 10:05:51"}
+{"level":"info","message":"127.0.0.1 - - [28/Nov/2025:04:36:21 +0000] \"GET /auth/youtube/callback?code=4/0Ab32j93wS6vFg_hSFGFeo4oI6kBuQrP486VnpfBg9DboMUN387oaYUf4Ke4TPpuvJd_jgA&scope=email%20profile%20https://www.googleapis.com/auth/youtube.upload%20https://www.googleapis.com/auth/youtube%20https://www.googleapis.com/auth/userinfo.profile%20https://www.googleapis.com/auth/userinfo.email%20openid&authuser=0&prompt=consent HTTP/1.1\" 404 45 \"-\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36 Edg/142.0.0.0\"","timestamp":"2025-11-28 10:06:21"}
+{"level":"info","message":"Shutting down gracefully...","timestamp":"2025-11-28 10:08:18"}
+{"level":"info","message":"Connecting to MongoDB...","timestamp":"2025-11-28 10:08:25"}
+{"level":"info","message":"MongoDB connected successfully","timestamp":"2025-11-28 10:08:26"}
+{"level":"info","message":"✅ MongoDB connected","timestamp":"2025-11-28 10:08:26"}
+{"level":"info","message":"Scheduling upload job: 30 17 * * * (Asia/Kolkata)","timestamp":"2025-11-28 10:08:26"}
+{"level":"info","message":"✅ Upload job scheduled for 17:30 Asia/Kolkata","timestamp":"2025-11-28 10:08:26"}
+{"level":"info","message":"✅ Upload job scheduled","timestamp":"2025-11-28 10:08:26"}
+{"level":"info","message":"========================================","timestamp":"2025-11-28 10:08:26"}
+{"level":"info","message":"🚀 Server running on port 4000","timestamp":"2025-11-28 10:08:26"}
+{"level":"info","message":"📅 Environment: production","timestamp":"2025-11-28 10:08:26"}
+{"level":"info","message":"⏰ Upload scheduled at: 17:30 Asia/Kolkata","timestamp":"2025-11-28 10:08:26"}
+{"level":"info","message":"🔗 OAuth URL: http://localhost:4000/auth/login","timestamp":"2025-11-28 10:08:26"}
+{"isRunning":false,"isScheduled":true,"level":"info","message":"📊 Upload Job Status:","skippedCycles":0,"timestamp":"2025-11-28 10:08:26"}
+{"level":"info","message":"========================================","timestamp":"2025-11-28 10:08:26"}
+{"level":"info","message":"Generated OAuth URL","timestamp":"2025-11-28 10:08:36"}
+{"level":"info","message":"127.0.0.1 - - [28/Nov/2025:04:38:36 +0000] \"GET /auth/login HTTP/1.1\" 304 - \"-\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36 Edg/142.0.0.0\"","timestamp":"2025-11-28 10:08:36"}
+{"level":"info","message":"Received OAuth callback with code","timestamp":"2025-11-28 10:09:02"}
+{"level":"info","message":"Tokens obtained successfully","timestamp":"2025-11-28 10:09:03"}
+{"level":"info","message":"Processing user: arjunpratab777@gmail.com, Channel: UC2XDLiMZ_jfT88OiVANTrdQ","timestamp":"2025-11-28 10:09:03"}
+{"code":11000,"index":0,"keyPattern":{"username":1},"keyValue":{"username":null},"level":"error","message":"OAuth callback error: E11000 duplicate key error collection: test.users index: username_1 dup key: { username: null }","stack":"MongoServerError: E11000 duplicate key error collection: test.users index: username_1 dup key: { username: null }\n    at C:\\death9\\backend1\\youtube-auto-uploader\\node_modules\\mongoose\\node_modules\\mongodb\\lib\\operations\\insert.js:50:33\n    at C:\\death9\\backend1\\youtube-auto-uploader\\node_modules\\mongoose\\node_modules\\mongodb\\lib\\operations\\command.js:84:64\n    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)","timestamp":"2025-11-28 10:09:03"}
+{"level":"info","message":"127.0.0.1 - - [28/Nov/2025:04:39:03 +0000] \"GET /auth/youtube/callback?code=4/0Ab32j93l48CyHHECfBUbsct3A6cSmYDrqPzAWbN2EIJZso0H2V3Mbpk65Ek8jFvCwg2f9g&scope=email%20profile%20https://www.googleapis.com/auth/youtube.upload%20https://www.googleapis.com/auth/youtube%20https://www.googleapis.com/auth/userinfo.profile%20https://www.googleapis.com/auth/userinfo.email%20openid&authuser=0&prompt=consent HTTP/1.1\" 500 361 \"-\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36 Edg/142.0.0.0\"","timestamp":"2025-11-28 10:09:03"}
+{"level":"info","message":"Shutting down gracefully...","timestamp":"2025-11-28 10:10:43"}
+{"level":"info","message":"Connecting to MongoDB...","timestamp":"2025-11-28 10:11:08"}
+{"level":"info","message":"MongoDB connected successfully","timestamp":"2025-11-28 10:11:09"}
+{"level":"info","message":"✅ MongoDB connected","timestamp":"2025-11-28 10:11:09"}
+{"level":"info","message":"Scheduling upload job: 30 17 * * * (Asia/Kolkata)","timestamp":"2025-11-28 10:11:09"}
+{"level":"info","message":"✅ Upload job scheduled for 17:30 Asia/Kolkata","timestamp":"2025-11-28 10:11:09"}
+{"level":"info","message":"✅ Upload job scheduled","timestamp":"2025-11-28 10:11:09"}
+{"level":"info","message":"========================================","timestamp":"2025-11-28 10:11:09"}
+{"level":"info","message":"🚀 Server running on port 4000","timestamp":"2025-11-28 10:11:09"}
+{"level":"info","message":"📅 Environment: production","timestamp":"2025-11-28 10:11:09"}
+{"level":"info","message":"⏰ Upload scheduled at: 17:30 Asia/Kolkata","timestamp":"2025-11-28 10:11:09"}
+{"level":"info","message":"🔗 OAuth URL: http://localhost:4000/auth/login","timestamp":"2025-11-28 10:11:09"}
+{"isRunning":false,"isScheduled":true,"level":"info","message":"📊 Upload Job Status:","skippedCycles":0,"timestamp":"2025-11-28 10:11:09"}
+{"level":"info","message":"========================================","timestamp":"2025-11-28 10:11:09"}
+{"level":"info","message":"Generated OAuth URL","timestamp":"2025-11-28 10:11:16"}
+{"level":"info","message":"127.0.0.1 - - [28/Nov/2025:04:41:16 +0000] \"GET /auth/login HTTP/1.1\" 304 - \"-\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36 Edg/142.0.0.0\"","timestamp":"2025-11-28 10:11:16"}
+{"level":"info","message":"Received OAuth callback with code","timestamp":"2025-11-28 10:11:37"}
+{"level":"info","message":"Tokens obtained successfully","timestamp":"2025-11-28 10:11:37"}
+{"level":"info","message":"Processing user: arjunpratab777@gmail.com, Channel: UC2XDLiMZ_jfT88OiVANTrdQ","timestamp":"2025-11-28 10:11:38"}
+{"level":"info","message":"Created new user: arjunpratab777@gmail.com","timestamp":"2025-11-28 10:11:38"}
+{"level":"info","message":"127.0.0.1 - - [28/Nov/2025:04:41:38 +0000] \"GET /auth/youtube/callback?code=4/0Ab32j90fBTG0yURWTpTOLjEm6AYhkLE6C7nzNFC6VoRxmdmRT5dSP1IE-3kYl9F5462ECA&scope=email%20profile%20https://www.googleapis.com/auth/youtube.upload%20https://www.googleapis.com/auth/youtube%20https://www.googleapis.com/auth/userinfo.profile%20https://www.googleapis.com/auth/userinfo.email%20openid&authuser=0&prompt=consent HTTP/1.1\" 200 1632 \"-\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36 Edg/142.0.0.0\"","timestamp":"2025-11-28 10:11:38"}
