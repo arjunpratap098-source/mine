@@ -1,3 +1,4 @@
 "# mine" 
 "# mine" 
 "# mine" 
+"# die" 
